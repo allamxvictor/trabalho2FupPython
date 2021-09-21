@@ -9,7 +9,7 @@ circulo(dados,raio) trianguloRet(dados,cateto1,cateto2)
 
 ## Observações:
 • o parâmetro dados em todas as funções trata-se de uma tupla contendo as seguintes informações:
-  ◦ a caneta (tartaruga) sendo utilizada
+  ◦ a caneta (tartaruga) sendo utilizada <br>
   ◦ a posição x e y de onde o desenho irá iniciar
   ◦ a orientação da caneta inicialmente (veja o ciclo trigonométrico como referência)  
   ◦ a cor de preenchimento do polígono (veja a relação de cores)
