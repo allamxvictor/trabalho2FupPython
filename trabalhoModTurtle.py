@@ -1,12 +1,9 @@
 # Nome: Allan Victor Gonçalves Evangelista
-# Matrícula: 476334
+
 
 import turtle
 from math import pi
 from sys import exit
-
-
-
 
 
 #  Desenha retangulo de lado L e altura A
