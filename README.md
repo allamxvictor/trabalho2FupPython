@@ -17,10 +17,10 @@ vetorial terá:<br/>
 <br/>
 ## Estrutura geral do programa: <br/>
     • Seu programa deve estar em um laço principal esperando que o usuário escolha entre uma das
-      primitivas ou sair.<br/>
+      primitivas ou sair. <br/>
     • Quando ele escolher uma primitiva, peça ao usuário os dados necessários para fazer o desenho dessa 
-      primitiva.<br/>
+      primitiva. <br/>
     • Desenhe na tela a primitiva desejada e continue esperando pela próxima ação.<br/>
     • Durante todo esse processo, vá armazenando em uma lista as informações entradas pelo usuário.<br/>
     • Quando o usuário finalmente pedir para sair da aplicação, mostre, em modo texto, o conteúdo dessa
-      lista.<br/>
+      lista. <br/>
