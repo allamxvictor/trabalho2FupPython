@@ -4,9 +4,9 @@ Trabalho em python, desenvolvido durante a disciplina Fundamentos de Programaç�
 ## --O objetivo do trabalho é:<br/> 
 Utilizando o módulo turtle construa as seguintes funções para as primitivas que seu programa de desenho
 vetorial terá:<br/>
-  •retângulo(dados,largura,altura)<br/>
-  •poligonoDe_N_Lados(dados,lado,nLados)<br/>
-  •circulo(dados,raio)<br/>   
+  •retângulo(dados,largura,altura)
+  •poligonoDe_N_Lados(dados,lado,nLados)
+  •circulo(dados,raio)
   •trianguloRet(dados,cateto1,cateto2)<br/>
 
 ## Observações:<br/>
