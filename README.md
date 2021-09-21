@@ -15,6 +15,7 @@ vetorial terá:<br/>
     ◦ a posição x e y de onde o desenho irá iniciar<br/>
     ◦ a orientação da caneta inicialmente (veja o ciclo trigonométrico como referência)<br/>  
     ◦ a cor de preenchimento do polígono (veja a relação de cores)<br/>
+
 <br/>
 <br/>
 ## Estrutura geral do programa: <br/>
