@@ -1,4 +1,4 @@
-# trabalho2FupPython - Desenho Vetorial
+# projeto2FupPython - Desenho Vetorial
 Trabalho em python, desenvolvido durante a disciplina Fundamentos de Programação.
 
 ## --O objetivo do trabalho é:<br/> 
